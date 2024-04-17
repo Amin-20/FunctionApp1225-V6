@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunctionApp1225_V6": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7085",
+      "launchBrowser": false
+    }
+  }
+}
